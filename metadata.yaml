@@ -1,0 +1,44 @@
+_repo: L-oeuvre-du-divin-Ar-tin-deuxi-me-partieEssai-de-bibliographie-ar-tinesque-par-Guillaume-Apol__43822
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43822-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Aretino, Pietro
+    aliases:
+    - Aretino, Piero
+    - Arétin
+    birthdate: 1492
+    deathdate: 1556
+    gutenberg_agent_id: '42426'
+    url: http://www.gutenberg.org/2009/agents/42426
+  editor:
+    agent_name: Apollinaire, Guillaume
+    aliases:
+    - De Kostrowisky, Guillaume
+    - Kostrowisky, Guillaume de
+    - Kostrowitzky, Wilhelm Apollinaris de
+    - Apollinaris de Kostrowitzky, Wilhelm
+    birthdate: 1880
+    deathdate: 1918
+    gutenberg_agent_id: '6075'
+    url: http://www.gutenberg.org/2009/agents/6075
+    wikipedia: http://en.wikipedia.org/wiki/Guillaume_Apollinaire
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2013-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43822'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Erotic literature'
+- !lcc 'PQ'
+title: 'L''oeuvre du divin Arétin, deuxième partie
+
+  Essai de bibliographie arétinesque par Guillaume Apollinaire'
+url: http://www.gutenberg.org/ebooks/43822
